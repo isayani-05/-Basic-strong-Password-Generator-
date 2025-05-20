@@ -1,5 +1,5 @@
 # 🔐 Basic-Password-Generator-
-A simple password generator built using Python  that creates secure, random passwords,Lightweight and beginner-friendly.
+"A simple password generator built using Python  that creates secure, random passwords,Lightweight and beginner-friendly."
 
 from random import  *
 import string
