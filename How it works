@@ -1,0 +1,9 @@
+###🧠 How It Works
+- The script imports character sets (uppercase, lowercase, digits, punctuation) from the string module.
+
+- It combines all these sets into one pool.
+
+- Then, using random.sample, it picks a specified number of characters without repetition to form the password.
+
+[Note: The password length must not exceed the total number of unique characters available in the character pool, or an error will occur.
+For most use cases, 8–16 characters is a good range.]
